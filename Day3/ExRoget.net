@@ -1,0 +1,22 @@
+*Vertices 1022
+1 "existence"
+2 "inexistence"
+3 "substantiality"
+4 "unsubstantiality"
+5 "intrinsicality"
+6 "extrinsicality"
+7 "state"
+8 "circumstance"
+9 "relation"
+10 "irrelation"
+*Arcslist
+1 2 69 125 149 156 166 193 455 506 527
+2 1 4 167 192 194 368 458 526 527 771
+3 4 323 325
+4 3 34 194 360 432 452 458 527
+5 6 82 162 182 228 562 657
+6 5 60 227
+7 8 247 336 457
+8 6 7 156
+9 10 11 12 18 25 46 78 204 474
+10 9 26 47 86 90
