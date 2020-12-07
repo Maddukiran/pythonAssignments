@@ -22,3 +22,9 @@
 
     word, line and char count
     file handling
+    module
+
+## Day 4
+
+    Regular expressions
+
